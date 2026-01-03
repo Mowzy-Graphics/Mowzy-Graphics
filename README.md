@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I'm Mowzy
 
-<!--
-**Mowzy-Graphics/Mowzy-Graphics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make Minecraft things.
 
-Here are some ideas to get you started:
+I'm the creator and maintainer of the **Create Harmony** Minecraft modpack  
+_🚧 **currently in active development**_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have a **YouTube channel** where I share:
+> - Minecraft videos
+> - Modpack-making progress
+> - Thoughts and experiments along the way
+
+I like designing systems that feel natural, rewarding, and fun to build around.
+
+> Come have a peek at our Discord 🙂  
+> https://discord.gg/ZhSBVXWdqr
